@@ -24,8 +24,8 @@
 
 ### 🚀 Explore TaskFlow Pro
 
-<a href="https://lalitaskflow.netlify.app/">
-  <img src="https://img.shields.io/badge/Live_Platform-lalitaskflow.netlify.app-00C853?style=for-the-badge" alt="Live Platform">
+<a href="https://taskflow.lalithkrish.dev/">
+  <img src="https://img.shields.io/badge/Live_Platform-TASKFLOW.LALITHKRISH.DEV-00C853?style=for-the-badge" alt="Live Platform">
 </a>
 <a href="https://github.com/Lalithkrish06/TaskFlowPro">
   <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
@@ -684,7 +684,7 @@ TaskFlow Pro can be extended for:
 
 <div align="center">
 
-<a href="https://lalitaskflow.netlify.app/">
+<a href="https://taskflow.lalithkrish.dev/">
   <img src="https://img.shields.io/badge/Live-Platform-00C853?style=for-the-badge" alt="Live Platform">
 </a>
 <a href="https://github.com/Lalithkrish06/TaskFlowPro">
